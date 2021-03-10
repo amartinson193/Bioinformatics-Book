@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1615383370478.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AA227884",
+    "lastKnownWriteTime" : 1615383382,
+    "last_content_update" : 1615383382605,
+    "path" : "~/Github/Machine-Learning-Book/1 - Site Docs/_site.yml",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "2,19",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}
